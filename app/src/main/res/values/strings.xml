@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationDrawer_gcgo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="chest">胸部锻炼</string>
+    <string name="shoulder">肩部锻炼</string>
+    <string name="back">背部锻炼</string>
+    <string name="leg">腿部锻炼</string>
+</resources>
